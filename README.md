@@ -3,14 +3,14 @@
 <!-- 1. Dynamic Header with Name embedded -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kashif%20Raza&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Passionate%20Web%20Developer%20from%20India&descAlignY=55&descAlign=50" alt="Header" />
 
-<!-- 2. Typing Animation (Updated Font & Speed) -->
+<!-- 2. Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Open+Source+Enthusiast;Building+Scalable+Backends;Always+Learning+New+Tech&font=Fira+Code&center=true&width=500&height=30&color=ff0055&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- 3. Social Badges (Clean "For the Badge" style) -->
+<!-- 3. Social Badges -->
 <p>
   <a href="https://github.com/altkriz">
     <img src="https://komarev.com/ghpvc/?username=altkriz&label=Views&color=ff0055&style=for-the-badge" alt="Profile Views" />
@@ -30,30 +30,30 @@
 
 ---
 
-<!-- 4. About Me with Emoji Bullets -->
+<!-- 4. About Me -->
 ### ⚡ About Me
 
 - 🔭 I’m currently working on **Full Stack Web Development**.
-- 🌱 I’m currently learning **Advanced Backend Frameworks & System Design**.
+- 🌱 I’m currently learning **Advanced Backend Frameworks**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **React, Node.js, and Python**.
+- 💬 Ask me about **PHP, Python, and Node.js**.
 
 ---
 
-<!-- 5. Tech Stack (Categorized for professional look) -->
+<!-- 5. Tech Stack (UPDATED AS REQUESTED) -->
 ### 💻 Tech Stack
 
 <div align="center">
 
-| **Frontend** | **Backend & Languages** | **Database & Tools** |
+| **Frontend** | **Backend** | **Database & Tools** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=nodejs,python,java,c,cpp" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,photoshop,ai" /> |
+| <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=php,python,nodejs" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,photoshop,ai" /> |
 
 </div>
 
 ---
 
-<!-- 6. Dashboard Style Stats (Using Radical Theme) -->
+<!-- 6. Dashboard Style Stats -->
 ### 📊 GitHub Analytics
 
 <div align="center">

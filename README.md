@@ -35,10 +35,10 @@
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=altkriz&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=altkriz&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=altkriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 

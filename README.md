@@ -2,11 +2,15 @@
   
 # Hi there, I'm Kashif Raza! 👋
 
-### 🚀 A Passionate Web Developer from New Delhi, India
+<!-- Added Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Web+Developer;From+New+Delhi,+India;Learning+Backend+Frameworks&font=Fira+Code&center=true&width=500&height=50&color=7aa2f7&vCenter=true&size=24" alt="Typing SVG" />
+</a>
 
 <p>
   <a href="https://github.com/altkriz">
-    <img src="https://komarev.com/ghpvc/?username=altkriz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <!-- Changed color to match Tokyo Night theme -->
+    <img src="https://komarev.com/ghpvc/?username=altkriz&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
   </a>
   <a href="https://twitter.com/altkriz" target="_blank">
     <img src="https://img.shields.io/twitter/follow/altkriz?logo=twitter&style=for-the-badge&color=1da1f2" alt="Twitter Follow" />
@@ -34,17 +38,18 @@
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=altkriz&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
+<!-- Layout Optimized: Stats and Langs side-by-side -->
+<a href="https://github.com/altkriz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=altkriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altkriz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=altkriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altkriz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<!-- Streak stats below -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=altkriz&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -64,7 +69,7 @@
 
 - 🌱 I'm currently learning **Backend Frameworks**
 - 👯 I'm looking to collaborate on **Web Development Projects**
-- 📫 Reach me at: **k.raza1932000@gmail.com**
+- 📫 Reach me at: [**k.raza1932000@gmail.com**](mailto:k.raza1932000@gmail.com)
 
 ---
 

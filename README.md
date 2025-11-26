@@ -30,22 +30,22 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=altkriz&theme=tokyonight&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats Dashboard
+## 📊 Stats & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=altkriz&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altkriz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10" alt="Top Languages" />
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=altkriz&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=altkriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altkriz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
 </div>
 
 ---
@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=altkriz&theme=tokyo-night&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=altkriz&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
   </a>
 </p>
 

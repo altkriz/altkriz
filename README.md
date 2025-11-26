@@ -1,155 +1,108 @@
 <div align="center">
-  
-# Hi there, I'm Kashif Raza! 👋
 
-<!-- Added Typing Animation -->
+<!-- 1. Dynamic Header with Name embedded -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kashif%20Raza&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Passionate%20Web%20Developer%20from%20India&descAlignY=55&descAlign=50" alt="Header" />
+
+<!-- 2. Typing Animation (Updated Font & Speed) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Web+Developer;From+New+Delhi,+India;Learning+Backend+Frameworks&font=Fira+Code&center=true&width=500&height=50&color=7aa2f7&vCenter=true&size=24" alt="Typing SVG" />
-</a>
-
-<p>
-  <a href="https://github.com/altkriz">
-    <!-- Changed color to match Tokyo Night theme -->
-    <img src="https://komarev.com/ghpvc/?username=altkriz&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://twitter.com/altkriz" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/altkriz?logo=twitter&style=for-the-badge&color=1da1f2" alt="Twitter Follow" />
-  </a>
-  <a href="https://linkedin.com/in/altkriz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=altkriz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=-1&row=2" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-## 📊 Stats & Streaks
-
-<div align="center">
-
-<!-- Layout Optimized: Stats and Langs side-by-side -->
-<a href="https://github.com/altkriz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=altkriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altkriz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Open+Source+Enthusiast;Building+Scalable+Backends;Always+Learning+New+Tech&font=Fira+Code&center=true&width=500&height=30&color=ff0055&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Streak stats below -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=altkriz&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=altkriz&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+<!-- 3. Social Badges (Clean "For the Badge" style) -->
+<p>
+  <a href="https://github.com/altkriz">
+    <img src="https://komarev.com/ghpvc/?username=altkriz&label=Views&color=ff0055&style=for-the-badge" alt="Profile Views" />
   </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🌱 I'm currently learning **Backend Frameworks**
-- 👯 I'm looking to collaborate on **Web Development Projects**
-- 📫 Reach me at: [**k.raza1932000@gmail.com**](mailto:k.raza1932000@gmail.com)
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
-  </a>
-</p>
-
----
-
-## 🏅 Holopin Badges
-
-[![An image of @altkriz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/altkriz)](https://holopin.io/@altkriz)
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
   <a href="https://twitter.com/altkriz" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/altkriz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:k.raza1932000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+   <a href="mailto:k.raza1932000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<!-- 4. About Me with Emoji Bullets -->
+### ⚡ About Me
+
+- 🔭 I’m currently working on **Full Stack Web Development**.
+- 🌱 I’m currently learning **Advanced Backend Frameworks & System Design**.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 💬 Ask me about **React, Node.js, and Python**.
+
+---
+
+<!-- 5. Tech Stack (Categorized for professional look) -->
+### 💻 Tech Stack
+
+<div align="center">
+
+| **Frontend** | **Backend & Languages** | **Database & Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=nodejs,python,java,c,cpp" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,photoshop,ai" /> |
+
+</div>
+
+---
+
+<!-- 6. Dashboard Style Stats (Using Radical Theme) -->
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+  <a href="https://github.com/altkriz">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=altkriz&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altkriz&layout=compact&theme=radical&hide_border=true" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=altkriz&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+---
+
+<!-- 7. Activity Graph -->
+### 📈 Contribution History
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=altkriz&theme=react&hide_border=true&area=true&custom_title=Kashif's%20Activity" alt="Activity Graph" />
   </a>
 </p>
 
 ---
 
+<!-- 8. Trophies -->
+### 🏆 Achievements
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=altkriz&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1&row=1" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://holopin.io/@altkriz">
+    <img src="https://holopin.me/altkriz" alt="Holopin Badges" width="100%" />
+  </a>
+</div>
+
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>

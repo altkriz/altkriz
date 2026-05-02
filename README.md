@@ -2,9 +2,7 @@
 
 <!-- 1. Dynamic Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Kashif%20Raza!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Passionate%20Full%20Stack%20Web%20Developer%20from%20India&descAlignY=61&descAlign=50" alt="Header" />
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kashif+Raza!+%F0%9F%91%8B;Passionate+Full+Stack+Web+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</p>
+
 <!-- 2. Typing Animation -->
 <a href="https://github.com/altkriz">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Open+Source+Enthusiast;Building+Scalable+Backends;Always+Learning+New+Tech&font=Fira+Code&center=true&width=500&height=40&color=ff0055&vCenter=true&pause=1000&size=20" alt="Typing SVG" />

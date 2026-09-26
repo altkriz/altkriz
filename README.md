@@ -80,11 +80,7 @@
 
 ### 📈 Contribution History
 
-<p align="center">
-  <a href="https://github.com/altkriz">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=altkriz&theme=radical&hide_border=true&area=true&custom_title=Kashif's%20Activity" alt="Activity Graph" width="100%" />
-  </a>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
